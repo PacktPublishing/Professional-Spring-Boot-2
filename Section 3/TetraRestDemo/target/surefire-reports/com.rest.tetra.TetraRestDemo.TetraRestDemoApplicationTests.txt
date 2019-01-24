@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.rest.tetra.TetraRestDemo.TetraRestDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.874 s - in com.rest.tetra.TetraRestDemo.TetraRestDemoApplicationTests

@@ -1,0 +1,6 @@
+com/rest/tetra/TetraRestDemo/model/Topic.class
+com/rest/tetra/TetraRestDemo/controller/TopicController.class
+com/rest/tetra/TetraRestDemo/dao/TopicRepository.class
+com/rest/tetra/TetraRestDemo/TetraRestDemoApplication.class
+com/rest/tetra/TetraRestDemo/HelloController.class
+com/rest/tetra/TetraRestDemo/service/TopicService.class
