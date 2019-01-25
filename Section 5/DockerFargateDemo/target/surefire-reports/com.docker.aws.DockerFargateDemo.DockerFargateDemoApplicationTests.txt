@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.docker.aws.DockerFargateDemo.DockerFargateDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.635 s - in com.docker.aws.DockerFargateDemo.DockerFargateDemoApplicationTests
